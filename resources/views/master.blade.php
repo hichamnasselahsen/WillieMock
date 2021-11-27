@@ -38,6 +38,10 @@
                 height: 100%;
                 width: auto;
             }
+            section.cpb{
+                background-image:url("http://via.placeholder.com/1280x600");
+                background-repeat: no-repeat;
+            }
             .card {
                 background: #fff;
                 border: 2px solid #eee;

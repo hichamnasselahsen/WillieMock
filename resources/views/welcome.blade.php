@@ -1,7 +1,7 @@
 @extends('master')
 
 @section('content')
-<section class="hero mb-3">
+<section class="hero bg-warning bg-gradient">
     <div class="container">
         <div id="carouselExampleDark" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-indicators">
@@ -42,6 +42,10 @@
             </button>
           </div>
     </div>
+</section>
+
+<section class="h-100 py-3 cpb">
+
 </section>
 
 
@@ -142,6 +146,24 @@
             </div>
         </div>
     </div>
+</section>
+
+<section class="py-4 bg-info bg-gradient">
+  <h1 class="mb-2 text-center fs-1 text-danger fw-bold text-uppercase">about willie mock brand</h1>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="text-center col-lg-4 col-md-3 col-sm-12 col-xs-12">
+        <img class="opacity-90 rounded w-100" src="{{ asset('images/Willie-Mock-Logo-Brand.png') }}" alt="this is brand logo">
+      </div>
+      <div class="col-lg-8 col-md-9 col-sm-12 col-xs-12">
+        <p class="fs-4 text-justify text-light lh-6">
+          Willie Mock Coloring Books is a brand that draws and designs educational and entertainment books for children and kids.
+          We design our books with children of different ages, evaluate the final product, which we publish only after their acceptance.
+          Our products are used not only for fun, but above all they are created to teach, stimulate creativity and increase self-confidence.
+        </p>
+      </div>
+    </div>
+  </div>
 </section>
 
 @endsection
