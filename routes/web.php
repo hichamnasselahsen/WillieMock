@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('Willie-Mock-Privacy-Policy', function () {
-    return view('privacypolicy')->name('Willie-Mock-Privacy-Policy');
+Route::get('/Willie-Mock-Privacy-Policy', function () {
+    return view('privacypolicy');
 });
