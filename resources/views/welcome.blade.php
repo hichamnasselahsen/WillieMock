@@ -161,6 +161,9 @@
           we prepare for your kid cute and pretty detailed Christmas cartoons pictures to colour like trees,
           ornaments, bells, elves, eve and much more lovely decorations!.
         </p>
+         <div class="d-gride">
+            <a title="first copy of christmas book" class="btn-lg text-uppercase btn btn-secondary btn-outline" target="_blank" href="https://www.amazon.co.uk/gp/product/B09K235B8J/ref=dbs_a_def_rwt_bibl_vppi_i24">Learn more and buy your first copy!</a>  
+         </div>
       </div>
     </div>
   </div>
