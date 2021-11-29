@@ -93,6 +93,19 @@
 
     
 
+
+
+        
+        <!-- willie mock -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-8570142002005993"
+            data-ad-slot="4107117077"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
         <!-- JS -->
         <script type="text/javascript" src="{{ asset('js/app.js') }}" defer async></script>
     </body>
