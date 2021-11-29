@@ -12,10 +12,10 @@
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="msapplication-config" content="{{ asset('images\Favicons/browserconfig.xml') }}">
         <meta name="theme-color" content="#ffffff">
-
+        <link rel="canonical" href="" />
         <title>{{ env('APP_NAME') }}</title>
-        <meta name="description" content="The Space Where Sharing Your enriching Colouring Pages To Help youngsters to increase bits of knowledge.">
-        <meta name="keywords" content="willie mock colouring pages,colouring books,cute colouring pages,colouring sheets">
+        <meta name="description" content="Hi, Welcome to my Space Where Sharing Your Enriching Bestselling Colouring Pages for Youngsters, Ideal for Children Preschoolers, Kindergarten, Kids to Help Increase Bits of Knowledge, and All Available on Amazon.">
+        <meta name="keywords" content="coloring book pages the cover store kids coloring books coloring book chance amazon on fire sheets">
         <meta name="author" content="Wille Mock">
        
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8570142002005993"
@@ -40,9 +40,16 @@
                 height: 100%;
                 width: auto;
             }
-            section.cpb{
-                background-image:url("http://via.placeholder.com/1280x600");
+            section.cpb, section.cpb-release{
+                background-size: cover;
+                background-position: center;
                 background-repeat: no-repeat;
+            }
+            section.cpb{
+                background-image: url(../images/banner-for-cool-stuff.png);
+            }
+            section.cpb-release{
+                background-image: url(../images/banner-for-releases-stuff.png);
             }
             .card {
                 background: #fff;
@@ -95,17 +102,8 @@
 
 
 
+
         
-        <!-- willie mock -->
-        <ins class="adsbygoogle"
-            style="display:block"
-            data-ad-client="ca-pub-8570142002005993"
-            data-ad-slot="4107117077"
-            data-ad-format="auto"
-            data-full-width-responsive="true"></ins>
-        <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
         <!-- JS -->
         <script type="text/javascript" src="{{ asset('js/app.js') }}" defer async></script>
     </body>
