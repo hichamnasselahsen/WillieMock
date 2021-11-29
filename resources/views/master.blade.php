@@ -18,6 +18,8 @@
         <meta name="keywords" content="willie mock colouring pages,colouring books,cute colouring pages,colouring sheets">
         <meta name="author" content="Wille Mock">
        
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8570142002005993"
+                crossorigin="anonymous"></script>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
