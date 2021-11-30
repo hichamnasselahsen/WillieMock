@@ -3,19 +3,19 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('images\Favicons/apple-touch-icon.png') }}">
-        <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images\Favicons/favicon-32x32.png') }}">
-        <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('images\Favicons/favicon-16x16.png') }}">
-        <link rel="manifest" href="{{ asset('images\Favicons/site.webmanifest') }}">
-        <link rel="mask-icon" href="{{ asset('images\Favicons/safari-pinned-tab.svg') }}" color="#5bbad5">
-        <link rel="shortcut icon" href="{{ asset('images\Favicons/favicon.ico') }}">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ mix('images\Favicons/apple-touch-icon.png') }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ mix('images\Favicons/favicon-32x32.png') }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ mix('images\Favicons/favicon-16x16.png') }}">
+        <link rel="manifest" href="{{ mix('images\Favicons/site.webmanifest') }}">
+        <link rel="mask-icon" href="{{ mix('images\Favicons/safari-pinned-tab.svg') }}" color="#5bbad5">
+        <link rel="shortcut icon" href="{{ mix('images\Favicons/favicon.ico') }}">
         <meta name="msapplication-TileColor" content="#da532c">
-        <meta name="msapplication-config" content="{{ asset('images\Favicons/browserconfig.xml') }}">
+        <meta name="msapplication-config" content="{{ mix('images\Favicons/browserconfig.xml') }}">
         <meta name="theme-color" content="#ffffff">
-        <link rel="canonical" href="" />
+        <link rel="canonical" href="https://williemockcolouringpages.herokuapp.com/" />
         <title>{{ env('APP_NAME') }}</title>
         <meta name="description" content="Hi, Welcome to my Space Where Sharing Your Enriching Bestselling Colouring Pages for Youngsters, Ideal for Children Preschoolers, Kindergarten, Kids to Help Increase Bits of Knowledge, and All Available on Amazon.">
-        <meta name="keywords" content="coloring book pages the cover store kids coloring books coloring book chance amazon on fire sheets">
+        <meta name="keywords" content="coloring book pages the cover store kids coloring books coloring book chance amazon on fire sheets christmas snowman present kids toddlers preschoolers uk edition">
         <meta name="author" content="Wille Mock">
        
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8570142002005993"
@@ -27,7 +27,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;700&display=swap" rel="stylesheet">
 
         <!-- Styles -->
-        <link type="text/css" rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link type="text/css" rel="stylesheet" href="{{ mix('css/app.css') }}">
         <style type="text/css">
             body{
                 font-family: 'poppins', 'sans-serif';
@@ -105,6 +105,6 @@
 
         
         <!-- JS -->
-        <script type="text/javascript" src="{{ asset('js/app.js') }}" defer async></script>
+        <script type="text/javascript" src="{{ mix('js/app.js') }}" defer async></script>
     </body>
 </html>
