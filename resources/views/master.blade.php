@@ -17,6 +17,7 @@
         <meta name="description" content="Hi, Welcome to my Space Where Sharing Your Enriching Bestselling Colouring Pages for Youngsters, Ideal for Children Preschoolers, Kindergarten, Kids to Help Increase Bits of Knowledge, and All Available on Amazon.">
         <meta name="keywords" content="coloring book pages the cover store kids coloring books coloring book chance amazon on fire sheets christmas snowman present kids toddlers preschoolers uk edition">
         <meta name="author" content="Wille Mock">
+        <meta name="google-site-verification" content="GUfGxf0C2HbZ_S2qA8_xqxHdxd3VxN83cB6dmhz_MMI" />
        
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8570142002005993"
                 crossorigin="anonymous"></script>
